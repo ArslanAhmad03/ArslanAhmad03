@@ -166,7 +166,7 @@
 <circle cx="58" cy="42" r="5.5" fill="#EF4444"/>
 <circle cx="76" cy="42" r="5.5" fill="#F59E0B"/>
 <circle cx="94" cy="42" r="5.5" fill="#10B981"/>
-<text x="235.0" y="46.5" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#94A3B8">~/portrait.ascii</text>
+<text x="235.0" y="46.5" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#94A3B8"></text>
 <line x1="40" y1="58" x2="430" y2="58" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
 <g transform="translate(58,116)">
 <animateTransform attributeName="transform" type="translate" values="58,116; 58,110; 58,116" dur="4.2s" repeatCount="indefinite"/>
